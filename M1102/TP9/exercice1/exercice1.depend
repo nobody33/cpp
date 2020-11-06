@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1510218733 source:e:\desktop\dutinfo\dutinfo1\m1102\tp9\exercice1\exercice1.cpp
+	"exercice1.h"
+	<iostream>
+
+1510218519 e:\desktop\dutinfo\dutinfo1\m1102\tp9\exercice1\exercice1.h
+
+1510218698 source:e:\desktop\dutinfo\dutinfo1\m1102\tp9\exercice1\main.cpp
+	<iostream>
+	"exercice1.h"
+

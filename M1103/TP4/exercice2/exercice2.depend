@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1513349676 source:e:\desktop\dutinfo\dutinfo1\m1103\tp4\exercice2\main.cpp
+	<iostream>
+	"pile.h"
+	"sousProgrammes.h"
+
+1513350331 e:\desktop\dutinfo\dutinfo1\m1103\tp4\exercice2\pile.h
+	<stack>
+	"leFichierOuEstDefiniLeType.h"
+
+1513350344 e:\desktop\dutinfo\dutinfo1\m1103\tp4\exercice2\sousprogrammes.h
+	<iostream>
+	"pile.h"
+
+1388935934 source:e:\desktop\dutinfo\dutinfo1\m1103\tp4\exercice2\pile.cpp
+	"pile.h"
+	<iostream>
+

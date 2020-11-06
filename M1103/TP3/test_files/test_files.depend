@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1358183948 source:e:\desktop\dutinfo\dutinfo1\m1103\tp3\test_files\file.cpp
+	"file.h"
+	<iostream>
+
+1512747432 e:\desktop\dutinfo\dutinfo1\m1103\tp3\test_files\file.h
+	<queue>
+	"leFichierOuEstDefiniLeType.h"
+
+1512747859 source:e:\desktop\dutinfo\dutinfo1\m1103\tp3\test_files\main.cpp
+	<iostream>
+	"file.h"
+

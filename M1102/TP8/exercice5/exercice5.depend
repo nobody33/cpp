@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1509099779 source:e:\desktop\dutinfo\dutinfo1\m1102\tp8\exercice5\main.cpp
+	<iostream>
+	<cstdlib>
+	<time.h>
+

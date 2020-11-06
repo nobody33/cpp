@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1512035373 source:e:\desktop\dutinfo\dutinfo1\m1103\tp2\bibliothequetableaux.cpp
+	"bibliothequeTableaux.h"
+	<iostream>
+
+1512035322 e:\desktop\dutinfo\dutinfo1\m1103\tp2\bibliothequetableaux.h
+	"definitionsTypes.h"
+
+1511315832 e:\desktop\dutinfo\dutinfo1\m1103\tp2\definitionstypes.h
+	<iostream>
+
+1512035466 source:e:\desktop\dutinfo\dutinfo1\m1103\tp2\test_triparselectionplace\main.cpp
+	<iostream>
+	"../definitionsTypes.h"
+	"../bibliothequeTableaux.h"
+
